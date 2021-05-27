@@ -9,7 +9,7 @@ import javax.validation.constraints.Size;
 import java.util.Date;
 
 @Entity
-@Table(name = "JPA_USERS")
+@Table(name = "USERS")
 public class User {
 
     @Id
